@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Search and add the products to cart
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.045 s <<< FAILURE! - in Search and add the products to cart
+Search and add the products to cart.Search experience for both home and offer pages #1  Time elapsed: 19.273 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Tom[ato]> but was:<Tom[]>
+
