@@ -21,6 +21,7 @@ public class checkoutPage {
 	public void checkOutItems() {
 		driver.findElement(cart).click();
 		driver.findElement(checkout).click();
+		//open the project 
 	}
 	
 	public boolean verifyButtons() {
